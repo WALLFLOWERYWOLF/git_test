@@ -1,0 +1,3 @@
+Hello, World!
+
+I am following The Odin Project and this is my first git commit.
